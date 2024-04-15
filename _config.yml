@@ -24,9 +24,9 @@ author:
   avatar           : "ioegg.png"
   name             : "Qitan Lv"
   pronouns         : # example: "she/her"  
-  bio              : # "University of Science and  Technology of China (USTC)"
+  bio              : # "University of Science andTechnology of China (USTC)"
   location         : "Hefei China"
-  employer         : "University of Science and  Technology of China (USTC)"
+  employer         : "University of Science and<br>Technology of China (USTC)"
   uri              : # URL
   email            : "qitanlv@mail.ustc.edu.cn" 
 
