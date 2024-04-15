@@ -8,5 +8,3 @@ venue: 'Advances in Neural Information Processing Systems (NeurIPS) Main Confere
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/0b06c8673ebb453e5e468f7743d8f54e-Abstract-Conference.html'
 citation: 'Tianyu Liu, Qitan Lv, Jie Wang, Shuling Yang, Hanzhu Chen'
 ---
-
-#The contents above will be part of a list of publications. If the user clicks the link for the publication, the contents of this section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
