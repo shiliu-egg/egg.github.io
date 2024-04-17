@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome Note
 
-Hey there, welcome to my personal website!
+Hello hello, welcome to my personal website!
 My name is Qitan Lv (in Chinese: 吕奇澹). Due to [polyphony](https://baike.baidu.com/item/%E5%A4%9A%E9%9F%B3%E5%AD%97/10884829) (where characters can have multiple pronunciations), I'm also called EGG ( •̀ ω •́ )✧.
 
 # About Me
